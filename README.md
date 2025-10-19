@@ -70,9 +70,6 @@ Research in gesture recognition and HCI (Human-Computer Interaction)
 
 Gesture-based user interfaces and control systems
 
-🚀 Getting Started
-Setup and usage instructions will be added soon.
-
 🎯 Future Enhancements
 Extend support to ASL words and phrases
 
