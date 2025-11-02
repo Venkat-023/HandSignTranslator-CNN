@@ -1,4 +1,4 @@
-Real-Time American Sign Language (ASL) Recognition Using Custom CNN
+Real-Time American Sign Language (ASL) Recognition Using CNN
 
 HandSign-Translator is a real-time ASL alphabet recognition system that detects hand gestures from a webcam feed, classifies them using a custom-built Convolutional Neural Network (CNN), and dynamically constructs sentences based on confident predictions. The result is a smooth and intelligent system that bridges visual language and readable text.
 
