@@ -5,7 +5,7 @@ HandSign-Translator is a real-time ASL alphabet recognition system that detects 
 📌 Project Highlights
 🧠 Custom CNN architecture built from scratch
 
-🎥 Real-time gesture recognition via webcam
+🎥Real-time gesture recognition via webcam
 
 ✋ MediaPipe used for precise hand detection and dataset cleaning
 
